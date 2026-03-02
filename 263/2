@@ -16,3 +16,12 @@ lidar電源OK
 カメラ側まち
 lidar2個fusion成功
 スイッチングハブない/LANの雌雌買う
+ダイクストラ法で梅花林突破のルート作成
+
+#メモ　git用語
+pull : remote->local
+revert : commit取り消し
+rebase : コミットをブランチを変えてやりなおす
+cherry-pick : 他ブランチのコミットを今のブランチに反映 一部分マージ
+check out　: 作業ブランチの切り替え
+fetch : リモートの最新データをローカルに取得 マージは行わない
