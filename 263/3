@@ -15,6 +15,9 @@ scan+imu+tf+cmd_velでのrosbagとる
 シミュ環境の調整　機体,フィールド
 Nav2テスト　設定詰めたり
 
+# 進捗
+odrive/robomasterのコードをcarnaと自分のpcで同期/codex接続
+
 # メモ pc2台でcubeファイルのgit管理
 - 始める前
 git checkout main
