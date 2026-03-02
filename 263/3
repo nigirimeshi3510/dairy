@@ -15,3 +15,9 @@ scan+imu+tf+cmd_velでのrosbagとる
 シミュ環境の調整　機体,フィールド
 Nav2テスト　設定詰めたり
 
+# メモ pc2台でcubeファイルのgit管理
+- 始める前
+git checkout main
+git pull --rebase origin main
+- 変更するとき
+git checkout -b feature/<short-name>
