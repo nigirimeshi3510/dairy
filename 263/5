@@ -9,6 +9,7 @@ nav2のテスト
 昇降機構の調整,段差登り降りの自動化
 scan+imu+tf+cmd_velでのrosbagとる
 jetsonにimu刺す
+canのmailboxが3なので4輪同時に送ると詰まる　sendcan関数を変更し,対応するように
 ## 帰省後
 シミュ環境の調整　機体,フィールド
 Nav2テスト　設定詰めたり
