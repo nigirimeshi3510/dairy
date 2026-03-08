@@ -1,0 +1,19 @@
+# やること
+シミュ環境の調整　機体,フィールド
+Nav2テスト　設定詰めたり
+encoder mode
+odom配信
+北陽
+マイコンプログラムいじる
+
+# 進捗
+マイコン
+f767zi 
+can1 odrive*2
+can2 odirve*2
+can3 m3508 * 4
+encoder*2 (timer)
+
+f446re
+can1 robstride *3
+can2 robomaster 機構用
